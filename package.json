@@ -4,7 +4,7 @@
   "description": "Cloning Youtube with Vanilla and NodeJS",
   "author": "Creatijin",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   },
   "scripts": {
     "start": "node index.js"
